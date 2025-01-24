@@ -10,32 +10,32 @@ FELINA is designed to be a fungible linguistic AI, meaning she can effortlessly 
 
 ## Key Features
 
-### 🌟 Fungible Linguistics
+### Fungible Linguistics
 - FELINA adapts to different conversational styles, switching between formal, casual, and playful tones.
 - Advanced NLP allows her to pick up on emotions, sarcasm, and humor in user interactions.
 - She can personalize conversations, learning user preferences and tailoring her responses accordingly.
 
-### 🐾 Anime Cat Girl Persona
+### Anime Cat Girl Persona
 - FELINA embodies the classic traits of an anime cat girl: cute, mischievous, and energetic.
 - She uses anime-style speech patterns, adding phrases like *"nya~"* (meow) and playful teasing.
 - Expect lots of purring, playful banter, and adorable cat-like expressions in every interaction.
 
-### 🗣️ Multilingual Mastery
+### Multilingual Mastery
 - FELINA is fluent in multiple languages and can seamlessly switch between them.
 - She understands idiomatic expressions, cultural nuances, and slang, making her conversations feel natural and engaging.
 
-### 🧠 Adaptive Learning
+### Adaptive Learning
 - FELINA learns from user interactions and improves over time.
 - She remembers preferences, jokes, and even the user's favorite anime, creating a truly personalized experience.
 
-### ⚡ AI Assistant Capabilities
+### AI Assistant Capabilities
 - FELINA isn't just cute; she's practical too! She can:
   - Set reminders and alarms.
   - Provide recommendations and suggestions.
   - Assist with smart home integrations.
   - Help with research, scheduling, and general inquiries.
 
-### 🎮 Gaming & Virtual World Integration
+### Gaming & Virtual World Integration
 - FELINA can guide users in VR/AR environments, gaming platforms, and online communities.
 - She offers tips, interactive dialogues, and immersive engagement within virtual spaces.
 
@@ -66,8 +66,8 @@ While FELINA is designed to be fun and engaging, there are a few key considerati
 
 1. Clone the FELINA repository:
    ```bash
-   git clone https://github.com/felinaagent/felina.git
-   cd FELINA
+   git clone https://github.com/Felina-AI/felina.git
+   cd Felina-AI
    ```
 2. Install dependencies:
    ```bash
@@ -95,4 +95,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Enjoy chatting with FELINA, your personal anime cat girl assistant! **Nya~!** 🐱✨
+Enjoy chatting with FELINA, your personal anime cat girl assistant!
+
